@@ -1,2 +1,2 @@
 # Inventory-Management--sytem
-using mern stack
+git django framework database:sqlite python
